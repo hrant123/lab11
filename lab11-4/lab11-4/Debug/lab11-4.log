@@ -1,0 +1,4 @@
+﻿  lab11-4.cpp
+c:\users\user\source\repos\lab11-4\lab11-4\lab11-4.cpp(14): warning C4018: '<=': signed/unsigned mismatch
+  lab11-4.vcxproj -> C:\Users\User\source\repos\lab11-4\Debug\lab11-4.exe
+  lab11-4.vcxproj -> C:\Users\User\source\repos\lab11-4\Debug\lab11-4.pdb (Partial PDB)
